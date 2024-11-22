@@ -88,7 +88,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
+            "농구공은 우리 조용수 선생님이 좋아하겠네요 ㅎㅎ",
             "Label 1 관련 두 번째 텍스트 내용입니다.",
             "Label 1 관련 세 번째 텍스트 내용입니다."
         ]
@@ -105,7 +105,7 @@ content_data = {
             "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
+            "오늘 메이저리그 MVP 발표인데 오타니가 타겠죠 ㅎㅎ",
             "Label 2 관련 두 번째 텍스트 내용입니다.",
             "Label 2 관련 세 번째 텍스트 내용입니다."
         ]
@@ -122,7 +122,7 @@ content_data = {
             "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
+            "강원 FC가 2위 결정을 앞두고 있죠",
             "Label 3 관련 두 번째 텍스트 내용입니다.",
             "Label 3 관련 세 번째 텍스트 내용입니다."
         ]
